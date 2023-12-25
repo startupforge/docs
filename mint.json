@@ -28,7 +28,7 @@
   ],
   "anchors": [
     {
-      "name": "Docs",
+      "name": "Documentation",
       "icon": "book-open-cover",
       "url": "docs"
     },
@@ -40,8 +40,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["docs/intro"]
+      "group": "Documentation",
+      "pages": ["docs/start"]
     },
     {
       "group": "Blog",
