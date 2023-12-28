@@ -41,7 +41,17 @@
   "navigation": [
     {
       "group": "Documentation",
-      "pages": ["docs/start"]
+      "pages": [
+        "docs/start",
+        "docs/decide",
+        "docs/business",
+        "docs/code",
+        "docs/launch"
+      ]
+    },
+    {
+      "group": "Reference",
+      "pages": ["docs/products"]
     },
     {
       "group": "Blog",
